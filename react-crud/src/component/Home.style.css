@@ -1,0 +1,60 @@
+
+.add-employe-btn {
+  float: right;
+  margin-bottom: 10px;
+  padding: 10px 15px;
+  background-color: #4CAF50; 
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-employe-btn:hover {
+  background-color: #45a049; 
+}
+
+.article-header {
+  background-color: lightslategray;
+  color: white;
+  border: 3px solid transparent;
+  text-align: center;
+  padding: 9px;
+}
+
+.section-content {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 15px;
+}
+@media screen and (max-width: 768px) {
+  .section-content {
+    margin-left: 5%;   
+    margin-right: 5%;
+  }
+
+  
+  .add-employe-btn {
+    float: none;         
+    display: block;      
+    margin: 10px auto;   
+    width: 100%;         
+    font-size: 18px;     
+    padding: 12px 20px;  
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  ction-content {
+    margin-left: 3%;  
+    margin-right: 3%;  
+  }
+  .add-employe-btn {
+    font-size: 16px;    
+    padding: 10px 15px; 
+    width: 90%;         
+  }
+}
