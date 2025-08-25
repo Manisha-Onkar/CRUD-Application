@@ -24,9 +24,10 @@ CSS – Custom styling for responsive UI
 
 React State Management – Efficient handling of application state
 
-🔧 Installation & Setup
-# Clone the repository
-git clone https://github.com/your-username/crud-application.git
+🛠️ Getting Started
+
+# Clone the repo
+git clone https://github.com/Manisha-Onkar/CRUD-Application
 
 # Navigate to the project folder
 cd crud-application
@@ -36,3 +37,4 @@ npm install
 
 # Start the development server
 npm run dev
+
