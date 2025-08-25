@@ -5,16 +5,23 @@ A CRUD (Create, Read, Update, Delete) web application built with React.js, TypeS
 ✨ Features
 
 🔹 Real-time Data Management – Create, read, update, and delete user data efficiently.
+
 🔹 Type Safety with TypeScript – Reduces runtime errors and improves code maintainability.
+
 🔹 Code Splitting – Optimized bundle size, reducing initial load time by 40%.
+
 🔹 State Management – Smooth functionality and seamless updates across the UI.
+
 🔹 Responsive Design – Styled with CSS for better user experience.
 
 🛠️ Tech Stack
 
 React.js – Component-based frontend development
+
 TypeScript – Static typing for improved reliability
+
 CSS – Custom styling for responsive UI
+
 React State Management – Efficient handling of application state
 
 🔧 Installation & Setup
